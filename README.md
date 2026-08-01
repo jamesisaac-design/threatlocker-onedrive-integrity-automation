@@ -96,3 +96,9 @@ This project reinforced the importance of understanding system behavior before o
 Rather than only improving code execution speed, I analyzed the underlying release process and identified an opportunity to remove unnecessary processing while preserving security requirements.
 
 This experience strengthened my ability to evaluate workflows, identify inefficiencies, and contribute improvements within a collaborative engineering environment.
+
+# Development Process 
+
+AI tools were used as a development assistant during this project to accelerate troubleshooting, explore implementation approaches, and assist with scripting.
+
+The system architecture, security decisions, testing, troubleshooting, and final implementation choices were performed and validated by me.
