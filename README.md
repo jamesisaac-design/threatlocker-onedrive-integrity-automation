@@ -49,23 +49,23 @@ This reduced unnecessary searching and improved processing efficiency while main
 
 # Technical Workflow
 Microsoft Release Repository
-|
+|=>
 |
 Version Discovery
-|
+|=>
 |
 Download Official Files
-|
+|=>
 |
 Controlled Sandbox Execution
-|
+|=>
 |
 Generate File Hashes
 (MD5 / SHA256)
-|
+|=>
 |
 Hash Database
-|
+|=>
 |
 Endpoint Integrity Validation
 
