@@ -99,6 +99,6 @@ This experience strengthened my ability to evaluate workflows, identify ineffici
 
 # Development Process 
 
-AI tools were used as a development assistant during this project to accelerate troubleshooting, explore implementation approaches, and assist with scripting.
+AI tools were used as a development assistant during this project to accelerate troubleshooting and assist with scripting.
 
 The system architecture, security decisions, testing, troubleshooting, and final implementation choices were performed and validated by me.
